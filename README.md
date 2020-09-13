@@ -5,11 +5,6 @@ A list of practical projects that anyone can solve in any programming language (
 
 To get started, simply fork this repo.
 
-## [CONTRIBUTING](https://github.com/thekarangoel/Projects/blob/master/CONTRIBUTING.md)
-
-See ways of [contributing](https://github.com/thekarangoel/Projects/blob/master/CONTRIBUTING.md) to this repo. You can contribute **solutions** (will be published in this [repo](https://github.com/thekarangoel/Projects-Solutions)) to existing problems, **add new projects** or remove existing ones. Make sure you follow all instructions properly.
-
-
 ## [Solutions](https://github.com/thekarangoel/Projects-Solutions)
 
 You can find implementations of these projects in many other languages by other users in [this repo](https://github.com/thekarangoel/Projects-Solutions).
@@ -25,24 +20,24 @@ Problems are motivated by the ones shared at:
 
 ## Table of Contents
 
-- [Numbers](https://github.com/karan/Projects#numbers)
-- [Classic Algorithms](https://github.com/karan/Projects#classic-algorithms)
-- [Graph](https://github.com/karan/Projects#graph)
-- [Data Structures](https://github.com/karan/Projects#data-structures)
-- [Text](https://github.com/karan/Projects#text)
-- [Networking](https://github.com/karan/Projects#networking)
-- [Classes](https://github.com/karan/Projects#classes)
-- [Threading](https://github.com/karan/Projects#threading)
-- [Web](https://github.com/karan/Projects#web)
-- [Files](https://github.com/karan/Projects#files)
-- [Databases](https://github.com/karan/Projects#databases)
-- [Graphics and Multimedia](https://github.com/karan/Projects#graphics-and-multimedia)
-- [Security](https://github.com/karan/Projects#security)
+- [Numbers](https://github.com/sergskokow2/Projects#numbers)
+- [Classic Algorithms](https://github.com/sergskokow2/Projects#classic-algorithms)
+- [Graph](https://github.com/sergskokow2/Projects#graph)
+- [Data Structures](https://github.com/sergskokow2/Projects#data-structures)
+- [Text](https://github.com/sergskokow2/Projects#text)
+- [Networking](https://github.com/sergskokow2/Projects#networking)
+- [Classes](https://github.com/sergskokow2/Projects#classes)
+- [Threading](https://github.com/sergskokow2/Projects#threading)
+- [Web](https://github.com/sergskokow2/Projects#web)
+- [Files](https://github.com/sergskokow2/Projects#files)
+- [Databases](https://github.com/sergskokow2/Projects#databases)
+- [Graphics and Multimedia](https://github.com/sergskokow2/Projects#graphics-and-multimedia)
+- [Security](https://github.com/sergskokow2/Projects#security)
 
-Numbers
+[Numbers](https://github.com/sergskokow2/Projects/tree/master/numbers/)
 ---------
 
-**Find PI to the Nth Digit** - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
+[**Find PI to the Nth Digit**](https://github.com/sergskokow2/Projects/tree/master/numbers/spigotPI.m) - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
 
 **Find e to the Nth Digit** - Just like the previous problem, but with e instead of PI. Enter a number and have the program generate e up to that many decimal places. Keep a limit to how far the program will go.
 
